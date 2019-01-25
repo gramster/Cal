@@ -13,7 +13,7 @@
 *	contain a number of text lines. Each line should be of the
 *	form `day/month text'; for example:
 *
-* 10/5 Graham Wheeler's birthday
+* 10/7 Graham Wheeler's birthday
 *
 *	The program takes an argument on the command line, which
 *	is the number of days ahead that it should scan. All events
